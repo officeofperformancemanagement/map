@@ -6,3 +6,6 @@ https://officeofperformancemanagement.github.io/map/?latitude=35.060017&longitud
 
 ## usage
 Easily display a location by replacing the numbers in the example above.
+
+## support
+If you have any questions, please email opendata@chattanooga.gov.  Thank you!
